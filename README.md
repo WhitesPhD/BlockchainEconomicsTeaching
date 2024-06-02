@@ -1,0 +1,1 @@
+I am posting here some of the material I cover for my course on Blockchain Economics and Innovation in Financial Markets that I teach at the School of Economics and Finance, Queen Mary University of London. Please notice this is a module designed for post-graduate students with no previous knowledge of Blockchain technology, engineering, or programming languages. 
