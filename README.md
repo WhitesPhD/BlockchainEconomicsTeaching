@@ -7,6 +7,7 @@ The material covers:
 1. Foundations of Blockchain Technology
 2. A Primer on Blockchain Economics
 3. Smart contracts and Decentralised Applications (DApps) [coming next]
+4. ... 
 
 I may occasionally post articles or Python codes.
 
