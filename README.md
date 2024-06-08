@@ -6,8 +6,10 @@ I am posting some of the material I cover for my Blockchain Economics and Innova
 The material covers:
 1. Foundations of Blockchain Technology
 2. A Primer on Blockchain Economics
-3. Smart contracts and Decentralised Applications (DApps) [coming next]
-4. ... 
+3. Smart contracts and Decentralised Applications (DApps) [not available]
+4. Decentralised Finance (DeFi)
+5. Stablecoins and Central Bank Digital Currencies (CBDCs)
+6. NFTs [coming next]
 
 I may occasionally post articles or Python codes.
 
